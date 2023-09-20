@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>brew on Gautham Mohanraj</title>
+    <link>https://angrezichatterbox.github.io/tags/brew/</link>
+    <description>Recent content in brew on Gautham Mohanraj</description>
+    <image>
+      <title>Gautham Mohanraj</title>
+      <url>https://angrezichatterbox.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://angrezichatterbox.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 28 Aug 2023 12:00:37 +0530</lastBuildDate><atom:link href="https://angrezichatterbox.github.io/tags/brew/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🔨 How did I construct this amazing web page? 🛠️🌐</title>
+      <link>https://angrezichatterbox.github.io/blog/second/</link>
+      <pubDate>Mon, 28 Aug 2023 12:00:37 +0530</pubDate>
+      
+      <guid>https://angrezichatterbox.github.io/blog/second/</guid>
+      <description>I built this incredible website using an amazing tool –
+Hugo! ✨ Hugo, in case you&amp;rsquo;re wondering, is an absolute gem when it comes to crafting websites effortlessly. It&amp;rsquo;s an open-source static site generator that works like pure magic, transforming your ideas into captivating web pages with minimal fuss. 🪄 You can think of Hugo as the ultimate wand for web creation.
+Hugo itself is a static site generator built with Go (also known as Golang).</description>
+    </item>
+    
+  </channel>
+</rss>
